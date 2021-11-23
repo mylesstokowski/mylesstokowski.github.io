@@ -1,0 +1,21 @@
+---
+title: "Myles Stokowski"
+image: "images/me.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/mylesstokowski"
+  - label: GitHub
+    url: "https://github.com/mylesstokowski"
+  - label: Email
+    url: "mailto:mylesstokowski@gmail.com"
+  - label: eBird
+    url: "https://ebird.org/profile/MTE3ODk2MA"
+output:
+  postcards::jolla
+description: |
+  Personal website and portfolio for Myles Stokowski
+site: distill::distill_website
+---
+
+I'm an environmental studies, biology and computer science student graduating from Middlebury College in February '22. My work has focused on quantitative and geospatial approaches to understanding the environment.
+
