@@ -1,6 +1,7 @@
 create_proj_card = function(img_src, url, title, text, text2){
   
   # TODO refactor
+  # if no image
   if (img_src == "") {
     tags$div(
       class = "card",
@@ -11,7 +12,6 @@ create_proj_card = function(img_src, url, title, text, text2){
       )
     )
     
-  # if there's an image
   } else {
     tags$div(
       class = "card",
