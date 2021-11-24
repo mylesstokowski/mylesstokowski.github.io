@@ -43,7 +43,7 @@ create_proj_card(
 ```{r}
 create_proj_card(
   img_src = "",
-  url = "http://comments.amnat.org/2021/01/call-for-special-topics-paper.html/",
+  url = "http://comments.amnat.org/2021/01/call-for-special-topics-paper.html",
   title = "Colonial legacies influence biodiversity lessons",
   text = "Caribbean natural history collections hold rich biological information. They also reflect how colonial history has influenced research trajectories in the region. I tailored analyses and visualizations of biodiversity data from GBIF to address research questions posed by collaborators in Tobago and the US. This work is part of a manuscript currently in review for the invited issue of The American Naturalist, Nature, Data and Power: How hegemonies shape biological knowledge.",
   text2 = ""
@@ -64,7 +64,7 @@ create_proj_card(
 ```{r}
 create_proj_card(
   img_src = "images/middsense_map.png",
-  url = "https://github.com/Middsense/pre-processing",
+  url = "http://www.mylesstokowski.com/portfolio.html",
   title = "Middsense",
   text = "Manual approaches for detecting changes in road pavement quality are expensive and inefficient. In Professor Andrea Vaccari's lab at Middlebury, I investigated an alternative approach. The automated geospatial Python pipeline I co-developed extracts and processes synthetic aperture data along roads, for comparison with ground truth road quality data.",
   text2 = ""
