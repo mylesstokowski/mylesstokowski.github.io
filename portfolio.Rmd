@@ -64,7 +64,7 @@ create_proj_card(
 ```{r}
 create_proj_card(
   img_src = "images/middsense_map.png",
-  url = "http://www.mylesstokowski.com/portfolio.html",
+  url = "https://github.com/Middsense/pre-processing",
   title = "Middsense",
   text = "Manual approaches for detecting changes in road pavement quality are expensive and inefficient. In Professor Andrea Vaccari's lab at Middlebury, I investigated an alternative approach. The automated geospatial Python pipeline I co-developed extracts and processes synthetic aperture data along roads, for comparison with ground truth road quality data.",
   text2 = ""
