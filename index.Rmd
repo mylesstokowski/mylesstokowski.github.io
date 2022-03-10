@@ -17,5 +17,4 @@ description: |
 site: distill::distill_website
 ---
 
-I'm an environmental studies, biology and computer science student graduating from Middlebury College in February '22. My work has focused on quantitative and geospatial approaches to understanding the environment.
-
+data analyst at Fraym, recent grad from Middlebury College
