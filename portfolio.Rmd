@@ -34,7 +34,7 @@ create_proj_card(
   img_src = "",
   url = "https://aves.shinyapps.io/optimalBigDay/",
   title = "Optimal Big Day",
-  text = "Big Day is a global bird watching phenomenon in which birders try to observe the highest possible number of species within a 24 hour period. I co-developed an R Shiny app that uses eBird data in a probablistic model to predict optimal birding routes.
+  text = "Big Day is a global bird watching phenomenon in which birders try to observe the highest possible number of species within a 24 hour period. I co-developed an R Shiny app that uses eBird data in a probabilistic model to predict optimal birding routes.
 ",
   text2 = ""
 )
