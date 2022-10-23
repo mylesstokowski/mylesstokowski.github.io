@@ -22,7 +22,7 @@ create_proj_card(
   img_src = "images/ticks.png",
   url = "https://CRAN.R-project.org/package=IxPopDyMod",
   title = "Modelling tick populations",
-  text = "Tick population models aid in assessing how climate change impacts disease risk, and in designing tick control strategies. While models exist in the literature, source code is often unavailable, making models difficult to compare. With Middlebury Professor David Allen, I developed IxPopDyMod, a flexible R package for running such models and comparing outputs in different scenarios. More soon - we're currently drafting a manuscript presenting the package.
+  text = "Tick population models aid in assessing how climate change impacts disease risk, and in designing tick control strategies. While models exist in the literature, source code is often unavailable, making models difficult to compare. With Middlebury Professor David Allen, I developed IxPopDyMod, a flexible R package for running such models and comparing outputs in different scenarios.
 ",
   text2 = ""
 )
@@ -43,9 +43,9 @@ create_proj_card(
 ```{r}
 create_proj_card(
   img_src = "",
-  url = "https://github.com/mylesstokowski/colonial-sci",
-  title = "Colonial legacies influence biodiversity lessons",
-  text = "Caribbean natural history collections hold rich biological information. They also reflect how colonial history has influenced research trajectories in the region. I tailored analyses and visualizations of biodiversity data from GBIF to address research questions posed by collaborators in Tobago and the US. This work is part of a manuscript currently in review for the invited issue of The American Naturalist, Nature, Data and Power: How hegemonies shape biological knowledge.",
+  url = "https://doi.org/10.1086/720154",
+  title = "Colonial Legacies Influence Biodiversity Lessons: How Past Trade Routes and Power Dynamics Shape Present-Day Scientific Research and Professional Opportunities for Caribbean Scientists",
+  text = "Caribbean natural history collections hold rich biological information. They also reflect how colonial history has influenced research trajectories in the region. I tailored analyses of biodiversity data from GBIF to address research questions posed by collaborators in Tobago and the US, and contributed maps, figures and text to an article published in the invited issue of The American Naturalist, 'Nature, Data and Power: How hegemonies shape biological knowledge.'",
   text2 = ""
 )
 ```
@@ -65,7 +65,7 @@ create_proj_card(
 create_proj_card(
   img_src = "images/middsense_map.png",
   url = "https://github.com/Middsense/pre-processing",
-  title = "Middsense",
-  text = "Manual approaches for detecting changes in road pavement quality are expensive and inefficient. In Professor Andrea Vaccari's lab at Middlebury, I investigated an alternative approach. The automated geospatial Python pipeline I co-developed extracts and processes synthetic aperture data along roads, for comparison with ground truth road quality data.",
+  title = "Assessing pavement quality with synthetic aperature radar",
+  text = "Manual approaches for detecting changes in road pavement quality are expensive and inefficient. In Professor Andrea Vaccari's computer science lab at Middlebury College, I investigated an alternative approach. The automated geospatial Python pipeline I co-developed extracts and processes synthetic aperture radar data along roads, for comparison with ground truth road quality data.",
   text2 = ""
 )
