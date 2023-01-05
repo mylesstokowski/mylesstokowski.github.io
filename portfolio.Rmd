@@ -1,7 +1,7 @@
 ---
 title: "portfolio"
 description: |
-  Samples of my research and independent projects on topics like modelling tick population and infection dynamics, using remote sensing data to assess road infrastructure, and investigating biases in digital natural history collections.
+  Samples of my research and independent projects on topics like modeling tick population and infection dynamics, using remote sensing data to assess road infrastructure, and investigating biases in digital natural history collections.
 output: 
   distill::distill_article:
     css: theme.css
@@ -21,7 +21,7 @@ source("R/functions.R")
 create_proj_card(
   img_src = "images/ticks.png",
   url = "https://CRAN.R-project.org/package=IxPopDyMod",
-  title = "Modelling tick populations",
+  title = "Modeling tick populations",
   text = "Tick population models aid in assessing how climate change impacts disease risk, and in designing tick control strategies. While models exist in the literature, source code is often unavailable, making models difficult to compare. With Middlebury Professor David Allen, I developed IxPopDyMod, a flexible R package for running such models and comparing outputs in different scenarios.
 ",
   text2 = ""
