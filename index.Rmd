@@ -17,4 +17,4 @@ description: |
 site: distill::distill_website
 ---
 
-data analyst at Fraym, Middlebury College '21.5
+data engineer at Fraym, Middlebury College '21.5
